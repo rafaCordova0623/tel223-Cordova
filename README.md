@@ -6,4 +6,5 @@ Practicar el registro de cambios con Git.
 ## Evidencia 
 Primer commit realizado el 10 de agosto de 2026 el 18:02.
 
-# Nuevo comentario que no se guardó
+### Finalización de la Práctica 1 exitosa
+!A seguir con buenos ánimos!
