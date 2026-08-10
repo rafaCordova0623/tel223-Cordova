@@ -5,3 +5,5 @@ Carrera: [Ingeniería en Multimedia e Interactividad Digital]
 Practicar el registro de cambios con Git.
 ## Evidencia 
 Primer commit realizado el 10 de agosto de 2026 el 18:02.
+
+# Nuevo comentario que no se guardó
